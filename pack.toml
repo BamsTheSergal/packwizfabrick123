@@ -1,0 +1,13 @@
+name = "Merpcraftfabric 1"
+author = "Bamsy"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "24bd41751e9432f521c6ff9cc3b8f08c398c8c2975b36133555bcf272fe8accd"
+
+[versions]
+fabric = "0.14.12"
+minecraft = "1.19.2"

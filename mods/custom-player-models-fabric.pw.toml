@@ -1,0 +1,13 @@
+name = "Customizable Player Models (Fabric)"
+filename = "CustomPlayerModels-Fabric-1.19-0.6.3a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce1883cc2299a3023597fa0117189d47c712bc17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4299298
+project-id = 440597
