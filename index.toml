@@ -271,6 +271,11 @@ hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "f9a0ea931b13f27a841434ddfd3c055a04d96b1d6301350a65bcb83b75e53451"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
