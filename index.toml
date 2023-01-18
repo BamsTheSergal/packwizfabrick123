@@ -91,6 +91,11 @@ hash = "3f4979b3bf621ce00e3ca876df47c2467fafac3118779bd8cb6800f31dc4f625"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "113845c6f34fc699d57dffe95e5c3ddd41cb996ddeb04ec21529e3159c3dc3bf"
 metafile = true
@@ -198,6 +203,21 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "697be7f0a2d2c79f4cecddbbef1b08b8d1c3309d024a1472095bb1ae50a1bfdf"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "8fd64c49723700b6e5183a6463a003198c117f05d4148f3dcc39e6d7f5c22663"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "8734e4d8118d6723447c0cf958c906da59caa8899bf06b0efabc9c80c1ff331b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "4113feaab7b1ea0542f7cb8408fdf0e0ff78bc9bc922190a7d0f8e6020eaa24c"
 metafile = true
 
 [[files]]
@@ -343,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ef1b4a441c1f88eb1bb320da4ceb47c8cfc36b53edfd126e8b79eabfe162a14c"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "7beca0ae094f4492ef20c930428c698e9998ce8fedac6f823afe7fbca8861455"
 metafile = true
 
 [[files]]
