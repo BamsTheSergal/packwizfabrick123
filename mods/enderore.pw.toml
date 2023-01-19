@@ -1,0 +1,13 @@
+name = "[STOP USING API v1] Ender Ore"
+filename = "ender-ore-1.19.2-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HtSl1iEY/versions/5TJx5DCZ/ender-ore-1.19.2-1.2.3.jar"
+hash-format = "sha1"
+hash = "44697f82ac0f83e26d9f157ece7dd9bbaa73d29f"
+
+[update]
+[update.modrinth]
+mod-id = "HtSl1iEY"
+version = "5TJx5DCZ"

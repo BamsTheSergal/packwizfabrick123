@@ -1,0 +1,13 @@
+name = "Plant In A Jar"
+filename = "plantinajar-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc2893c41527eb045316de401e519a38854440e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4083775
+project-id = 397183
