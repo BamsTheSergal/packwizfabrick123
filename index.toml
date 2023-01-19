@@ -156,6 +156,11 @@ hash = "1ac7edb2f2abd2c186a21372f2cee3be84957a4efee145ffd76f5f886a432481"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "a7751f2023c023006e1a797110a31ce913f7d82db571b4db479942a4eaf0ed10"
+metafile = true
+
+[[files]]
 file = "mods/expanded-armor-enchanting.pw.toml"
 hash = "898243d58aa3b0970de498b250d6236c61265cd53e770250f16abf767c41d068"
 metafile = true
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "00960cdd63d16c9a2ca9f1e3a9c3aa79d789c0284fb19091ba4b8841a7f5def5"
+hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
 
 [[files]]
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
@@ -408,6 +413,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "87e71b5daeb15cbe28c108fe2dae85a61997bd644f53affb69b77c314611dc0e"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "15013165b9df03de99fb5a9c3a0c62721ad4d4348252332973436441c5e55852"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "0c0ff0cf47c0cc7714475d4c323051bf9dd4527ff5301c1920831a95106a78bb"
 metafile = true
 
 [[files]]
