@@ -91,6 +91,11 @@ hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
+file = "mods/cobblegen.pw.toml"
+hash = "32b0b14e1ad9c9dfe64c17e695449fb472823efc8b3aed4446ee2e62a531045f"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3f4979b3bf621ce00e3ca876df47c2467fafac3118779bd8cb6800f31dc4f625"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models-fabric.pw.toml"
 hash = "815cf81a4aa7d0c98910800df7ff4754f674428541fc92f5c1ebae9503e57abe"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
+hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
 
 [[files]]
@@ -187,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2264f673922651deb35c00b0020920baa49541d0d622d19f4562e287e4b3d025"
+hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
 metafile = true
 
 [[files]]
@@ -493,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
+file = "mods/universal_ores.pw.toml"
+hash = "377f9bb0ff4133e639b9017434cb8ad9bd0af6c9eef4366de04764ab755dc688"
 metafile = true
 
 [[files]]
