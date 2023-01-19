@@ -26,6 +26,11 @@ hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
 
 [[files]]
+file = "mods/apple-crates.pw.toml"
+hash = "8078f58f3764aa8cccbce0cb81223c061df20470ee0dca61183f7a1c593f78c7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
@@ -136,6 +141,11 @@ hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
+file = "mods/enderore.pw.toml"
+hash = "677c0509d223104c864dd3b7d6be83e7bd7ffc3850c905ef2b7c78db0ff59c89"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "9c4271edb9c7edad90f0cd64d521a473d5ae59f283a42840f8fa9739834489ee"
 metafile = true
@@ -158,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/expanded-weapon-enchanting.pw.toml"
 hash = "f1d730dbc74a9740ebb59867335b6771854f6ea4b6382e0191ff036a4a4ff5eb"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "113ae1ae50877cd17a6f3a3c9a22c5b45554f65b1c1ecb5c5c6e02cf16a5a29f"
+metafile = true
+
+[[files]]
+file = "mods/extractinator.pw.toml"
+hash = "2f59bb0e80290af4c0de3260b079359ac64221c88754afc872731314f16f3eeb"
 metafile = true
 
 [[files]]
@@ -371,6 +391,11 @@ hash = "ef1b4a441c1f88eb1bb320da4ceb47c8cfc36b53edfd126e8b79eabfe162a14c"
 metafile = true
 
 [[files]]
+file = "mods/plant-in-a-jar.pw.toml"
+hash = "5adf3cff44f459b1d73258ab487861dbf74f3515b0d437e7e96c1183926fc5ca"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "7beca0ae094f4492ef20c930428c698e9998ce8fedac6f823afe7fbca8861455"
 metafile = true
@@ -427,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "302af37e1da31339ce22a5aefc3676928a7dedbed1620f16c17ce327eb834b53"
+hash = "2a4b6993b47bf3e557556976771604af12408558e18ab9ecbfcb785f1e280494"
 metafile = true
 
 [[files]]
