@@ -136,13 +136,23 @@ hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
 metafile = true
 
 [[files]]
+file = "mods/dcch.pw.toml"
+hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "be160873f910e05a59aab41a59e682a41f9c413642e24727383505c013e5e3fc"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "348c780e8b1d9b4fcd8780291d22896c973462e029b030a07d9dab40a3714756"
+hash = "224ed022d89ba9fec9ab268c71e6dacca2de03ad28c85c44eda939598179f4cd"
 metafile = true
 
 [[files]]
@@ -197,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
 metafile = true
 
 [[files]]
@@ -241,6 +251,11 @@ hash = "697be7f0a2d2c79f4cecddbbef1b08b8d1c3309d024a1472095bb1ae50a1bfdf"
 metafile = true
 
 [[files]]
+file = "mods/forgetmechunk.pw.toml"
+hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "8fd64c49723700b6e5183a6463a003198c117f05d4148f3dcc39e6d7f5c22663"
 metafile = true
@@ -273,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
+file = "mods/i-know-what-im-doing.pw.toml"
+hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
 
 [[files]]
@@ -376,6 +396,11 @@ hash = "6ba02ed36bd9c31c7585b3788ea70b8fbfd4027e8a4e05481e35bfb7470eaa46"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "5c90923f6dea8b6f7ecd190f82726d844ad4a738d68d6b048b38c9b939d70ae9"
 metafile = true
@@ -396,6 +421,11 @@ hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
 metafile = true
 
 [[files]]
+file = "mods/no-unused-chunks.pw.toml"
+hash = "ad8578b528cf2f712ef04d7d84aca2a9aa1c379989940a8ff209d1f724d848f8"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "932ec1df27e1a8559007ffdec5f02a1b93c0e0f0baeac3869fbfd6a606a32fa5"
 metafile = true
@@ -407,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/pack-it-up.pw.toml"
-hash = "dcb1fd6f3f7c019621bf2cc1bc3479b6cca742fae0d61dc4eb5a6061d2da7625"
+hash = "e0bec10a85e3ace6fbe070017887a10b14e7a21266d201e41f839ea1869bbbb8"
 metafile = true
 
 [[files]]
@@ -457,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "14f5b32e3586d0c6ef5d58592f9ca7430d4b59e78e69973123a7339c11e1eace"
+hash = "65231c99d1dfed6039a3eb1bf8345a3e87d31f60824d6d8df9ff15351deed6c0"
 metafile = true
 
 [[files]]
@@ -492,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2a4b6993b47bf3e557556976771604af12408558e18ab9ecbfcb785f1e280494"
+hash = "3f1952cb2a91d4857f557bf536a8de308cdf641540c573914d4dbf7d93cf096e"
 metafile = true
 
 [[files]]
