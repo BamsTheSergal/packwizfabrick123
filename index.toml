@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2264f673922651deb35c00b0020920baa49541d0d622d19f4562e287e4b3d025"
+hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
 metafile = true
 
 [[files]]
@@ -403,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
+metafile = true
+
+[[files]]
+file = "mods/pack-it-up.pw.toml"
+hash = "dcb1fd6f3f7c019621bf2cc1bc3479b6cca742fae0d61dc4eb5a6061d2da7625"
 metafile = true
 
 [[files]]
