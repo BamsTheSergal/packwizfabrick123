@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+hash = "2264f673922651deb35c00b0020920baa49541d0d622d19f4562e287e4b3d025"
 metafile = true
 
 [[files]]
@@ -413,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/polylib.pw.toml"
 hash = "7beca0ae094f4492ef20c930428c698e9998ce8fedac6f823afe7fbca8861455"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-fabric.pw.toml"
+hash = "2c47a34f1e9c1ea09dbc1c68f4644a32978485bc5237c87a4899f9bccc37bf1a"
 metafile = true
 
 [[files]]
