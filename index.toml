@@ -281,6 +281,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inv-view.pw.toml"
+hash = "420f5674b4545e4e02b0cc45d2635a3ac8143ba8dbf4f700c6311c206c8c8f02"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorting.pw.toml"
 hash = "9ec7fac40bbe6f5e496993422b10b9df982cbf9ad5f8631f1070476cbf20b5fe"
 metafile = true
