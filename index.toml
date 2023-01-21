@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "c556d24e9181ebcbc0b6338c21b2e6a6140e2970737c45a2b3b66b1c1681abc9"
+hash = "6c69db5ada357cad1ca44e288de014e9eb927438749b84186227fcb5d37bb453"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3f1952cb2a91d4857f557bf536a8de308cdf641540c573914d4dbf7d93cf096e"
+hash = "327a45179e0b4b1cc1751bff031f79c3ae08da08c35251d04d5e026309207ac2"
 metafile = true
 
 [[files]]
