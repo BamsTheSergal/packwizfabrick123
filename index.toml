@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/grind-enchantments.pw.toml"
-hash = "e0f38d3e7790683d7f92a64e8d4627a551591d07bc924df9abe4ec0a638d19f4"
+hash = "316a2b71ecd79f8957379b77bbe6ba13f443bdbaf368ee6cde2b41dd5aacecb3"
 metafile = true
 
 [[files]]
