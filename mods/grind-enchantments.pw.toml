@@ -1,0 +1,13 @@
+name = "Grind Enchantments"
+filename = "grind-enchantments-3.0.0-beta.1+1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WC4UgDcZ/versions/xPYzzYUa/grind-enchantments-3.0.0-beta.1%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "db9f7900258719788016462cf5a6da19470e890e"
+
+[update]
+[update.modrinth]
+mod-id = "WC4UgDcZ"
+version = "xPYzzYUa"
