@@ -1,0 +1,7 @@
+name = "essential"
+filename = "Essential.jar"
+
+[download]
+url = "https://github.com/BamsTheSergal/packwizfabrick123/blob/main/Essential.jar"
+hash-format = "sha1"
+hash = "009a54d65e2c15b026ca7cb8d0359d4110ce7304"
