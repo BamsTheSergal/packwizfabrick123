@@ -181,6 +181,11 @@ hash = "1ac7edb2f2abd2c186a21372f2cee3be84957a4efee145ffd76f5f886a432481"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "80260d638454dab224a359b8436d1cbff14e35a001e128723e9fd05c4d36c8cb"
+metafile = true
+
+[[files]]
 file = "mods/expanded-armor-enchanting.pw.toml"
 hash = "898243d58aa3b0970de498b250d6236c61265cd53e770250f16abf767c41d068"
 metafile = true
