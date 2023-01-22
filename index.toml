@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "17286bf8c9bcbb1aae16dca55cd42d139bb034e11bca5a5284808284330b0d98"
+hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-captains.pw.toml"
-hash = "ab79f25c49fbd80279631b8828ed47ba0bbd67c8094586d5338f0b6c94e72e57"
+hash = "88d1658e598887f005855808d6cefa786c4e33a1702eac3fe480206650fdea9a"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "be1ce20605a70f13c36516dae3df5b83608ba7bf4e2c8c921c76b477483f0867"
+hash = "e0c137e731158cff47ea992778edda280be964099dd3843a483d6412b7eafdd2"
 metafile = true
 
 [[files]]
@@ -438,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
 hash = "ad8578b528cf2f712ef04d7d84aca2a9aa1c379989940a8ff209d1f724d848f8"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "f1537627c2d758d9246b3e37777b9da481cde948921740326c3caf4ba78524e3"
 metafile = true
 
 [[files]]
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "205edb8d600dddcdd2a01da57c5973ce01b528244cff463a876fd365b5d54788"
 metafile = true
 
 [[files]]
