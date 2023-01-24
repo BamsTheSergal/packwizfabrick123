@@ -241,8 +241,8 @@ hash = "ed45534139fd5fdea57ffc8ed92346aada23ac71d13dbd3fdc4d24ee741ac884"
 metafile = true
 
 [[files]]
-file = "mods/factory_api.pw.toml"
-hash = "7936cf2c42ce570e6e66c35a26cf46ac7b007edc677ee6482bcbe6b8262426d1"
+file = "mods/factory-api.pw.toml"
+hash = "a47f5026a9d2beb1d2b3af645759fcc818da43f2db10bfc5b7ddccb1c7515471"
 metafile = true
 
 [[files]]
