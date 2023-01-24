@@ -326,6 +326,11 @@ hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests-for-fabric.pw.toml"
+hash = "a17e9bce260be0005216d0ffaaa90be67db716748f3900a0ab2e1bfb79416ddc"
+metafile = true
+
+[[files]]
 file = "mods/isometric-renders.pw.toml"
 hash = "1d1bd4c82deec5f54dc73f027aeb77c60bb6f8d2319e6614a3c4215f0d352c1a"
 metafile = true
@@ -507,12 +512,17 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "65231c99d1dfed6039a3eb1bf8345a3e87d31f60824d6d8df9ff15351deed6c0"
+hash = "7b0572e35255b32b51afd0d4eb31dac987569a04429285819392d030be6617e6"
 metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "9c08011eaed91ca490a032279dd468d414a0153db6d8d24438a9cbf5a162d1bb"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "1e0e3985d68f54e19c68d509aa8260682f34e05152149275d6e3e98698651e1e"
 metafile = true
 
 [[files]]
@@ -547,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "327a45179e0b4b1cc1751bff031f79c3ae08da08c35251d04d5e026309207ac2"
+hash = "3ddc5f815aeeac12e422e7009fbb4827903ab98036c983e592f7555a1367246a"
 metafile = true
 
 [[files]]
@@ -582,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
