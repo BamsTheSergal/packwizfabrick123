@@ -1,0 +1,13 @@
+name = "PictureSign"
+filename = "picturesign-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7da985bd8d5c59c96fdc798753ca024cbabc62fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837060
+project-id = 533897
