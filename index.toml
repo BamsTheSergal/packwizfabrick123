@@ -476,6 +476,11 @@ hash = "ef1b4a441c1f88eb1bb320da4ceb47c8cfc36b53edfd126e8b79eabfe162a14c"
 metafile = true
 
 [[files]]
+file = "mods/picturesign.pw.toml"
+hash = "eec1bf9f3c16c7923f386b0b8aa2842bc9999db7cbb549de2270eea033737e85"
+metafile = true
+
+[[files]]
 file = "mods/plant-in-a-jar.pw.toml"
 hash = "5adf3cff44f459b1d73258ab487861dbf74f3515b0d437e7e96c1183926fc5ca"
 metafile = true
