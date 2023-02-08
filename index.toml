@@ -671,11 +671,6 @@ hash = "465223eb4cff91128f265a54a9a6864b5643b3ac23d961b5da110412372cf4c6"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
-metafile = true
-
-[[files]]
 file = "mods/worldtime.pw.toml"
 hash = "464d0b1045bde9920c5b686f635e83b890694e52241bc9bc24b38f2b11c89794"
 metafile = true
