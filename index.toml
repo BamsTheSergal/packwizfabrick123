@@ -361,11 +361,6 @@ hash = "1d1bd4c82deec5f54dc73f027aeb77c60bb6f8d2319e6614a3c4215f0d352c1a"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix.pw.toml"
-hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
