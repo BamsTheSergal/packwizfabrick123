@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "47548f4b06d3be2d82c956b3d786d9a0f9d460050eee6a20ed2e2d1c17339138"
+hash = "3b38e97df8dcaa13433257f457daf682ee42a5e86dbded61ea16374a79b61af4"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "224ed022d89ba9fec9ab268c71e6dacca2de03ad28c85c44eda939598179f4cd"
+hash = "f6973a5693782d4f29d990d552a51336c261558e8781511f775e17c81782d9fe"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "8734e4d8118d6723447c0cf958c906da59caa8899bf06b0efabc9c80c1ff331b"
+hash = "6ab3eb4d76bd46affe125b568d7fbb4ebd3d563bfe78c7696aa7ce52feb34a18"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f9a0ea931b13f27a841434ddfd3c055a04d96b1d6301350a65bcb83b75e53451"
+hash = "ae036b9ad3ac279afe19f9c6ab39a991f813b59ab1b34c76d6c3f5910f20532b"
 metafile = true
 
 [[files]]
