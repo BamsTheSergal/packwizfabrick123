@@ -1,13 +1,13 @@
 name = "Isometric Renders"
-filename = "isometric-renders-0.4.1+1.19.jar"
+filename = "isometric-renders-0.4.4+1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M0aimenU/versions/6CJfEFc0/isometric-renders-0.4.1%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/M0aimenU/versions/rGAaotD7/isometric-renders-0.4.4%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "cfb9924200cd6747e0acfb10fa8267ae4dd69f0c"
+hash = "87ecd3c01557118f5adf4d3892e66598b2811785"
 
 [update]
 [update.modrinth]
 mod-id = "M0aimenU"
-version = "6CJfEFc0"
+version = "rGAaotD7"

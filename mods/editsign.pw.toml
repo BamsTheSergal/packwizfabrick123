@@ -1,13 +1,13 @@
 name = "EditSign"
-filename = "EditSign-1.19.2-2.6.0.jar"
+filename = "EditSign-1.19.4-2.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hFMCvH85/versions/1.19.2-2.6.0/EditSign-1.19.2-2.6.0.jar"
+url = "https://cdn.modrinth.com/data/hFMCvH85/versions/hXin7WqP/EditSign-1.19.4-2.8.0.jar"
 hash-format = "sha1"
-hash = "31cccf9a8d59e2d26924f471e53925e02feefc72"
+hash = "cc79c10dbf6f24c8588903c7d63290c8031712e7"
 
 [update]
 [update.modrinth]
 mod-id = "hFMCvH85"
-version = "cS4enerj"
+version = "hXin7WqP"
