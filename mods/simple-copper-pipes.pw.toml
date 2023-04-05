@@ -1,13 +1,13 @@
 name = "Simple Copper Pipes"
-filename = "lunade-copper-pipe-1.12.jar"
+filename = "lunade-copper-pipe-1.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf17ab9f995b5ae2fda2ac43dc60b488c94e33d3"
+hash = "297810f7bf1812f3b55c8c3524ec65b41df89af7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4371127
+file-id = 4463314
 project-id = 571336
