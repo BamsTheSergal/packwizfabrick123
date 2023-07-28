@@ -1,13 +1,13 @@
 name = "No Unused Chunks"
-filename = "nounusedchunks-1.4.jar"
+filename = "nounusedchunks-2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U8avpWmO/versions/GPTZMhxs/nounusedchunks-1.4.jar"
+url = "https://cdn.modrinth.com/data/U8avpWmO/versions/2EYsfcMk/nounusedchunks-2.0.jar"
 hash-format = "sha1"
-hash = "1d64786e0994c9565a589f45abe50c6da9e3f78c"
+hash = "549d2902c8aae6dafd67660af85d7445316aff1c"
 
 [update]
 [update.modrinth]
 mod-id = "U8avpWmO"
-version = "GPTZMhxs"
+version = "2EYsfcMk"

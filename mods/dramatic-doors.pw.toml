@@ -1,13 +1,13 @@
 name = "Dramatic Doors"
-filename = "DramaticDoors-Fabric-1.19.2-1.4.2_1.jar"
+filename = "DramaticDoors-Fabric-1.19.4-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c62275607c845e81fd3e44101fe9f3bbafe1314e"
+hash = "857b33c73541c549a46643d7dfb6f7f41a07f932"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4415380
+file-id = 4666068
 project-id = 380617

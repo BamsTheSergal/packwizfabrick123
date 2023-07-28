@@ -1,13 +1,13 @@
 name = "Capes [Fabric/Forge]"
-filename = "capes-1.5.2+1.19.3-fabric.jar"
+filename = "capes-1.5.3+1.19.4-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2464dba794972e50e277b822efbf3025cd8ec68c"
+hash = "4075af1d6f8df2d8cf162173c9f90a7c73609f8f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4441151
+file-id = 4619919
 project-id = 408481

@@ -1,13 +1,13 @@
 name = "[STOP USING API v1] Resourceful Lib"
-filename = "resourcefullib-fabric-1.19.4-1.3.1.jar"
+filename = "resourcefullib-fabric-1.19.4-1.3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/zOnmzwki/resourcefullib-fabric-1.19.4-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/7wv4Al4f/resourcefullib-fabric-1.19.4-1.3.6.jar"
 hash-format = "sha1"
-hash = "7f3276c869b666919b12d71251f2a43655759de3"
+hash = "bab45cd4e086efdaf7e471f6c729a2ff809eb9f5"
 
 [update]
 [update.modrinth]
 mod-id = "G1hIVOrD"
-version = "zOnmzwki"
+version = "7wv4Al4f"

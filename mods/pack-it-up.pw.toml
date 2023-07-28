@@ -1,13 +1,13 @@
 name = "Pack It Up!"
-filename = "pack_it_up-0.3.0+1.19.jar"
+filename = "pack_it_up-0.3.1+1.19.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/czWH0F4i/versions/BXhMkYzT/pack_it_up-0.3.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/czWH0F4i/versions/LvERiOLd/pack_it_up-0.3.1%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "1644eeb57ee300a704f8fae0c8852e92b6a68c93"
+hash = "d9bbcf1b93e4a8857d52a0071e6395b912c8fc8f"
 
 [update]
 [update.modrinth]
 mod-id = "czWH0F4i"
-version = "BXhMkYzT"
+version = "LvERiOLd"

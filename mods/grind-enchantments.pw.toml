@@ -1,13 +1,13 @@
 name = "Grind Enchantments"
-filename = "grind-enchantments-2.0.0+1.19.2.jar"
+filename = "grind-enchantments-3.1.1+1.19.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d15feb95f330ef39cef6b9767381db49f1d0f2bc"
+hash = "cc9b0d02b66625c7f795bf759fde43afc97e2aad"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4041310
+file-id = 4553233
 project-id = 379680
